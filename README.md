@@ -17,8 +17,8 @@
   <div> 
   <a href="https://www.linkedin.com/in/marcos-vinicius-40716b204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a> 
  <a href="https://discord.com/channels/viinny#0245" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:marcosvinicius1921@gmail.com"><img src="https://images-ext-2.discordapp.net/external/DyX6BNX2U1gNOe35oWuaHyk8kFCDmGCxfdAwI4xm3TQ/https/i.picasion.com/pic92/2f62bdfc3d045f68658ca557963a9caf.gif"></a>
-
+  <a href = "mailto:marcosvinicius1921@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
